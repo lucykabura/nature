@@ -1,0 +1,16 @@
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+img{
+	width: 350px;
+	height: 290px;
+}
+*{
+	background-color: blue;
+}
+table{
+	width: 100%;
+}
+td{
+	padding: 19.65px;
+
+
+}
